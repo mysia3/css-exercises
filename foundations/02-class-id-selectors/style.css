@@ -1,4 +1,4 @@
-.one {
+.odd {
     background-color: #FFB6C1;
     font: verdana, "Dejavu Sans", sans-serif;
 }
@@ -8,12 +8,12 @@
     font-size: 36px;
 }
 
-#three {
+.font-size {
     font-size: 24px;
 }
 
-.four {
+#four {
     background-color: #90ee90;
-    font-size: 24px;
+
     font-weight: bold;
 }
